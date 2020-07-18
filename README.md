@@ -4,7 +4,7 @@
 <hr>
 <h4>Description About Dataset</h4>
 <p>The data is comprised of .mp4 files, split into compressed sets of ~10GB apiece. A metadata.json accompanies each set of .mp4 files, and contains filename, label (REAL/FAKE), original and split columns, listed below under Columns.</p>
-<p>To get the Dataset: kaggle.com/c/deepfake-detection-challenge/data </p>
+<a href="https://www.kaggle.com/c/deepfake-detection-challenge/data">To get the Dataset Click Here</a>
 <hr>
 <h4> Django-ML based Project</h4>
 <h5> Project Snippets</h5>
